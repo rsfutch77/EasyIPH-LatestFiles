@@ -2,6 +2,10 @@ Uploading
 - Make sure you don't upload any private information (API keys, standings, inventory...) to the LatestFiles Repo. Delete those records before updating the table
 - Update the DB version
 
+To Test Updating:
+The LatestVersionIPH_Test.xml needs to be present in C:\Users\<user>\AppData\Roaming\EasyIPH\EVE IPH Updates
+If you can't paste or run files in the C:\Users\<user>\AppData\Roaming\EasyIPH folder, you may have to make a new folder in the same directory i.e. C:\Users\<user>\AppData\Roaming\EasyIPH2
+
 For modifying EVEIPH DB:
 ALTER TABLE ITEM_PRICES_FACT ADD RISK_PRICE float;
 ALTER TABLE ESI_CHARACTER_DATA ADD WALLET float;
