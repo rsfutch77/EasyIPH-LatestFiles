@@ -8,8 +8,6 @@
       <row Name="EVEIPH DB.sqlite" Version="test1" MD5="3e8c6f8a55ca63b5447fdb2ff1e20249" URL="https://raw.githubusercontent.com/rsfutch77/LatestFiles/test/EVEIPH%20DB.sqlite" />
       <row Name="Newtonsoft.Json.dll" Version="12.0.1.22727" MD5="d827dd8a8c4b2a2cfa23c7f90f3cce95" URL="https://raw.githubusercontent.com/rsfutch77/EasyIPH-LatestFiles/test/Newtonsoft.Json.dll" />
       <row Name="System.Data.SQLite.dll" Version="1.0.109.0" MD5="1cb1fffea4b449fff2e56a52d7e1f4e4" URL="https://raw.githubusercontent.com/rsfutch77/EasyIPH-LatestFiles/test/System.Data.SQLite.dll" />
-      <row Name="EVEIPH Updater.exe.manifest" Version="1.0" MD5="3585b5be683e863a6c7d96fbf6eeab4f" URL="https://raw.githubusercontent.com/rsfutch77/EasyIPH-LatestFiles/test/EVEIPH%20Updater.exe.manifest" />
-      <row Name="EVE Isk per Hour.exe.manifest" Version="1.0" MD5="09553d7ca04c91d1217bb24ffc3e981a" URL="https://raw.githubusercontent.com/rsfutch77/EasyIPH-LatestFiles/test/EVE%20Isk%20per%20Hour.exe.manifest" />
     </rowset>
   </result>
 </EVEIPH>
