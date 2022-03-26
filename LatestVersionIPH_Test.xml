@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<EVEIPH Version="0.2">
-  <LastUpdated>3/16/2022 12:59:45 AM</LastUpdated>
+<EasyIPH Version="0.3">
+  <LastUpdated>3/26/2022 1:29:38 AM</LastUpdated>
   <result>
     <rowset name="filelist" key="version" columns="Name,Version,MD5,URL">
-      <row Name="EasyIPH.exe" Version="0.0.0.0" MD5="3f18e400d311b1a841e18b859df6eb70" URL="https://raw.githubusercontent.com/rsfutch77/EasyIPH-LatestFiles/test/EasyIPH.exe" />
-      <row Name="EasyIPH-Updater.exe" Version="3.0.0.0" MD5="25ca77766ff423313893426515f7a9a6" URL="https://raw.githubusercontent.com/rsfutch77/EasyIPH-LatestFiles/test/EasyIPH-Updater.exe" />
-      <row Name="EVEIPH DB.sqlite" Version="test1" MD5="3e8c6f8a55ca63b5447fdb2ff1e20249" URL="https://raw.githubusercontent.com/rsfutch77/LatestFiles/test/EVEIPH%20DB.sqlite" />
+      <row Name="EasyIPH.exe" Version="0.3" MD5="3f18e400d311b1a841e18b859df6eb70" URL="https://raw.githubusercontent.com/rsfutch77/EasyIPH-LatestFiles/test/EasyIPH.exe" />
+      <row Name="EasyIPH-Updater.exe" Version="0.3" MD5="48fff8d02ae04fda6f8842bafd5b8d0f" URL="https://raw.githubusercontent.com/rsfutch77/EasyIPH-LatestFiles/test/EasyIPH-Updater.exe" />
+      <row Name="EasyIPH_DB.sqlite" Version="" MD5="b223b9999f7a2e657b853604935255b3" URL="https://raw.githubusercontent.com/rsfutch77/EasyIPH-LatestFiles/test/EasyIPH_DB.sqlite" />
       <row Name="Newtonsoft.Json.dll" Version="12.0.1.22727" MD5="d827dd8a8c4b2a2cfa23c7f90f3cce95" URL="https://raw.githubusercontent.com/rsfutch77/EasyIPH-LatestFiles/test/Newtonsoft.Json.dll" />
       <row Name="System.Data.SQLite.dll" Version="1.0.109.0" MD5="1cb1fffea4b449fff2e56a52d7e1f4e4" URL="https://raw.githubusercontent.com/rsfutch77/EasyIPH-LatestFiles/test/System.Data.SQLite.dll" />
     </rowset>
   </result>
-</EVEIPH>
+</EasyIPH>
