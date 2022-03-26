@@ -5,7 +5,7 @@ Uploading
 To Test Updating:
 If you can't paste or run files in the C:\Users\<user>\AppData\Roaming\EasyIPH folder, you may have to make a new folder in the same directory i.e. C:\Users\<user>\AppData\Roaming\EasyIPH2
 
-For modifying EVEIPH DB:
+For modifying EasyIPH DB:
 ALTER TABLE ITEM_PRICES_FACT ADD RISK_PRICE float;
 ALTER TABLE ESI_CHARACTER_DATA ADD WALLET float;
 ALTER TABLE ESI_CHARACTER_DATA ADD WALLET_CACHE_DATE float;
